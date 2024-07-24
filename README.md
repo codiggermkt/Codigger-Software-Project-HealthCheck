@@ -4,7 +4,7 @@
 
 ## Codigger Software Project HealthCheck 期待您的参与测试，并提出宝贵意见！
 
-## [https://www.codigger.com/app-insight-health-check]
+## https://www.codigger.com/app-insight-health-check
 
 ## 对优质代码的范围和标准：
 编写优美的代码对于维护健康的代码库至关重要。我们将优质代码定义为满足特定定义标准的代码，即除了具有其他关键属性之外，可靠、安全、可维护、可读和模块化的代码。这适用于所有代码：源代码、测试代码、基础设施即代码、粘合代码、脚本等。
@@ -43,7 +43,7 @@ Codigger项目体检从Bug、漏洞、codesmell等维度提供准确、可靠的
 无论是项目体检总览，还是单维度检测详情，Codigger之软件项目体检Software Project HealthCheck报告都能为项目决策和重构提供有效辅助。
 探索代码的未知领域，提高项目质量的秘诀就在这里！Codigger之软件项目体检Software Project HealthCheck工具现已开放体验，它是一款专为软件开发团队设计的智能代码质量分析工具。立即加入我们，享受深度分析和专业建议，让代码质量提升成为您项目成功的关键。点击这里，开始您的项目体检之旅，与Codigger一起，让每一个代码都焕发活力！
 
-##1、这里可以抢先免费体验：www.codigger.com/app-insight-health-check，或者www.codigger.com
+## 1、这里可以抢先免费体验：www.codigger.com/app-insight-health-check
 
-##2、在这里可以找到技术支持：cdsn：bbs.csdn.net/forums/codigger
-                         Discord：discord.gg.2hQq9wh7
+## 2、在这里可以找到技术支持：cdsn：bbs.csdn.net/forums/codigger 
+##                             Discord：discord.gg.2hQq9wh7
