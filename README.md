@@ -43,5 +43,7 @@ Codigger项目体检从Bug、漏洞、codesmell等维度提供准确、可靠的
 无论是项目体检总览，还是单维度检测详情，Codigger之软件项目体检Software Project HealthCheck报告都能为项目决策和重构提供有效辅助。
 探索代码的未知领域，提高项目质量的秘诀就在这里！Codigger之软件项目体检Software Project HealthCheck工具现已开放体验，它是一款专为软件开发团队设计的智能代码质量分析工具。立即加入我们，享受深度分析和专业建议，让代码质量提升成为您项目成功的关键。点击这里，开始您的项目体检之旅，与Codigger一起，让每一个代码都焕发活力！
 
-1、这里可以抢先免费体验：www.codigger.com/app-insight-health-check，或者www.codigger.com
-2、在这里可以找到技术支持：cdsn：bbs.csdn.net/forums/codigger请替换井号为点号Discord：discord.gg.2hQq9wh7
+##1、这里可以抢先免费体验：www.codigger.com/app-insight-health-check，或者www.codigger.com
+
+##2、在这里可以找到技术支持：cdsn：bbs.csdn.net/forums/codigger
+                         Discord：discord.gg.2hQq9wh7
