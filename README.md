@@ -47,3 +47,5 @@ Codigger项目体检从Bug、漏洞、codesmell等维度提供准确、可靠的
 
 ## 2、在这里可以找到技术支持：cdsn：bbs.csdn.net/forums/codigger 
 ##                             Discord：discord.gg.2hQq9wh7
+
+![2-5.jpg](https://github.com/codiggermkt/Codigger-Software-Project-HealthCheck/blob/main/2-5.jpg?raw=true)
